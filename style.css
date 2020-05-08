@@ -1,0 +1,33 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid red;
+    align-items: center;
+}
+.icon,.heading,.button {
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+i {
+    color: black;
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.icon {
+
+    justify-content: space-between;
+} */
+/* ul {
+    list-style: none;
+    display: flex; */
+    li {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
